@@ -16,11 +16,8 @@ dependencies:
     github: kemalyst/granite-orm
     version: ~> 0.6.0
 
-  pg:
-    github: will/crystal-pg
-
-#  mysql:
-#    github: crystal-lang/crystal-mysql
+  mysql:
+    github: crystal-lang/crystal-mysql
 #  pg:
 #    github: will/crystal-pg
 #  sqlite3:
